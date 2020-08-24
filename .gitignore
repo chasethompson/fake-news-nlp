@@ -7,4 +7,5 @@ env.py
 *.json
 *.png
 *.jpg
+*.csv
 data/
